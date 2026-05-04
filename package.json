@@ -1,0 +1,12 @@
+{
+  "name": "airborne-download",
+  "version": "1.0.0",
+  "description": "Smart app download redirect for Airborne Aerial Fitness",
+  "type": "module",
+  "scripts": {
+    "generate-qr": "node generate-qr.js"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.4"
+  }
+}
